@@ -1,0 +1,8 @@
+
+.imagem-de-fundo {
+   width: 100%; /* Ajuste a largura conforme necessário */
+   height: 500px; /* Ajuste a altura conforme necessário */
+   background-image: url('img/joao.jpg');
+   background-repeat: no-repeat; /* Evita a repetição da imagem */
+   background-position: center; /* Centraliza a imagem no elemento */
+}
